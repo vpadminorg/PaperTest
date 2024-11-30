@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fatags on PaperMod RTL</title>
+    <link>/PaperTest/fa/fatags/</link>
+    <description>Recent content in Fatags on PaperMod RTL</description>
+    <image>
+      <title>PaperMod RTL</title>
+      <url>/PaperTest/images/papermod-cover.png</url>
+      <link>/PaperTest/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/PaperTest/fa/fatags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAtags/Css</title>
+      <link>/PaperTest/fa/fatags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/PaperTest/fa/fatags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FAtags/Html</title>
+      <link>/PaperTest/fa/fatags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/PaperTest/fa/fatags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FAtags/Markdown</title>
+      <link>/PaperTest/fa/fatags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/PaperTest/fa/fatags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FAtags/Themes</title>
+      <link>/PaperTest/fa/fatags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/PaperTest/fa/fatags/themes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
